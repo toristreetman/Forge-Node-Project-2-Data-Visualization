@@ -8,7 +8,7 @@
 
 ### Project Focus:
 #### Utilizing data from Kaggle and Worth Rise (a non-profit advocacy group), we have collected, analyzed, and visualized data patterns regarding the prison industry to depict any key takeaways or significant relationships. 
-#### Source: https://worthrises.org/theprisonindustry2020#block-5bc4c1200a7eaff4fcef; https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+#### Source2: https://worthrises.org/theprisonindustry2020#block-5bc4c1200a7eaff4fcef; https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
 
 
 
